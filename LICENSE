@@ -1,0 +1,35 @@
+Duolane — Proprietary License
+
+Copyright (c) 2026 Jonas Wirsching. All rights reserved.
+
+This software, including its source code, documentation, designs and
+assets (the "Software"), is the exclusive property of Jonas Wirsching.
+
+1. No license to the source code. You may not copy, modify, adapt,
+   translate, merge, publish, distribute, sublicense, sell, rent or
+   otherwise make available the source code or any part of it, and you
+   may not create derivative works based on it, in whole or in part,
+   without prior written permission from the copyright holder.
+
+2. Use of official builds. You may install and use the official
+   installers published by the copyright holder for your own personal
+   use and evaluation. You may not redistribute these builds or offer
+   them through any other channel.
+
+3. No reverse engineering. You may not decompile, disassemble or
+   extract the source code from the builds, except where applicable
+   law expressly permits this despite this restriction.
+
+4. No training. You may not use the Software or any part of it to
+   train, fine-tune or evaluate machine learning models.
+
+5. Access to this repository, where granted, does not grant any
+   license beyond what is stated here.
+
+6. Any permission not expressly granted here is reserved. Use beyond
+   these terms requires a separate written agreement.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE,
+TO THE EXTENT PERMITTED BY APPLICABLE LAW.
