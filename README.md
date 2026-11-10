@@ -1,12 +1,12 @@
 <p align="center"><b>Duolane</b> — a shared planning board for you and Claude Code.</p>
 
-## Download 0.10.0
+## Download 0.11.0
 
 | Platform | File |
 |---|---|
-| Windows 10/11 (x64) | [Duolane-Setup-0.10.0.exe](https://github.com/Tschonsen/duolane-releases/releases/download/v0.10.0/Duolane-Setup-0.10.0.exe) |
-| macOS 12+ (Apple silicon: M1–M4) | [Duolane-0.10.0-arm64.dmg](https://github.com/Tschonsen/duolane-releases/releases/download/v0.10.0/Duolane-0.10.0-arm64.dmg) |
-| macOS 12+ (Intel) | [Duolane-0.10.0-x64.dmg](https://github.com/Tschonsen/duolane-releases/releases/download/v0.10.0/Duolane-0.10.0-x64.dmg) |
+| Windows 10/11 (x64) | [Duolane-Setup-0.11.0.exe](https://github.com/Tschonsen/duolane-releases/releases/download/v0.11.0/Duolane-Setup-0.11.0.exe) |
+| macOS 12+ (Apple silicon: M1–M4) | [Duolane-0.11.0-arm64.dmg](https://github.com/Tschonsen/duolane-releases/releases/download/v0.11.0/Duolane-0.11.0-arm64.dmg) |
+| macOS 12+ (Intel) | [Duolane-0.11.0-x64.dmg](https://github.com/Tschonsen/duolane-releases/releases/download/v0.11.0/Duolane-0.11.0-x64.dmg) |
 
 **Windows:** the installer is not code-signed yet. SmartScreen asks once: *More info → Run anyway*. Later versions install themselves from inside the app.
 
